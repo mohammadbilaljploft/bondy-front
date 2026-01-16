@@ -162,9 +162,9 @@ const HeroSlider = () => {
         </AnimatePresence>
       </div>
 
-      <div className=''>
+      {/* <div className=''>
         <Mapview />
-      </div>
+      </div> */}
 
 
     </>
